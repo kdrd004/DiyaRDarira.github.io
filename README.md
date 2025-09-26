@@ -2,6 +2,8 @@
 
 A modern, responsive personal portfolio website showcasing my skills, projects, and experience as a Creative AI & Tech Enthusiast.
 
+
+
 ## Features
 
 - **Modern UI Design**: Clean and professional interface with smooth animations
@@ -35,12 +37,9 @@ A modern, responsive personal portfolio website showcasing my skills, projects, 
 - **main**: Production branch that is deployed to GitHub Pages
 - **development**: Working branch for new features and updates
 
-### GitHub Pages Deployment
-This portfolio is deployed using GitHub Pages with the following workflow:
-1. Changes are committed to the development branch
-2. After testing, changes are merged to the main branch
-3. GitHub Pages automatically builds and deploys from the main branch
-4. The site is accessible at: https://DiyaRDarira.github.io
+## Website Access
+
+The portfolio is hosted on GitHub Pages and can be accessed at: [https://kdrd004.github.io](https://kdrd004.github.io)
 
 ## Contact
 
