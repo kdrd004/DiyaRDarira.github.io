@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <!-- Face Outline -->
+  <circle cx="50" cy="45" r="30" fill="none" stroke="#3498DB" stroke-width="2" />
+  
+  <!-- Facial Features -->
+  <circle cx="40" cy="35" r="3" fill="#3498DB" />
+  <circle cx="60" cy="35" r="3" fill="#3498DB" />
+  <path d="M40 55 Q50 65 60 55" fill="none" stroke="#3498DB" stroke-width="2" />
+  
+  <!-- Recognition Grid -->
+  <path d="M20 15 h60 M20 75 h60 M20 15 v60 M80 15 v60" stroke="#3498DB" stroke-width="1" stroke-dasharray="2,2" />
+  <path d="M35 15 v60 M65 15 v60 M20 30 h60 M20 60 h60" stroke="#3498DB" stroke-width="1" stroke-dasharray="2,2" />
+  
+  <!-- Checkmark -->
+  <circle cx="80" cy="80" r="12" fill="#2ECC71" />
+  <path d="M74 80 L78 84 L86 76" fill="none" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+</svg>

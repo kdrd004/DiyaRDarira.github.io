@@ -1,44 +1,53 @@
-# vCard - Personal portfolio
+# Diya R Darira - Personal Portfolio
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+A modern, responsive personal portfolio website showcasing my skills, projects, and experience as a Creative AI & Tech Enthusiast.
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+## Features
 
-## Demo
+- **Modern UI Design**: Clean and professional interface with smooth animations
+- **Responsive Layout**: Optimized for all devices (desktop, tablet, and mobile)
+- **Project Showcase**: Grid-based project cards with custom SVG icons
+- **Interactive Elements**: Hover effects and dynamic content sections
+- **Contact Information**: Easy access to contact details and social media
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+## Technologies Used
 
-## Prerequisites
+- HTML5
+- CSS3
+- JavaScript
+- Custom SVG Graphics
 
-Before you begin, ensure you have met the following requirements:
+## Projects Showcased
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+- **AI Traffic Optimization System**: Smart traffic controller with emergency vehicle prioritization
+- **Event Auction Website**: Live auction platform for college events
+- **Attendance Tracker**: Face recognition system with real-time tracking
+- **AI Agent**: Personal productivity assistant with automation capabilities
 
-## Installing vCard
+## Preview
 
-To install **vCard**, follow these steps:
+![Portfolio Desktop Preview](./website-demo-image/desktop.png "Desktop Preview")
+![Portfolio Mobile Preview](./website-demo-image/mobile.png "Mobile Preview")
 
-Linux and macOS:
+## Deployment
 
-```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
+### Branch Structure
+- **main**: Production branch that is deployed to GitHub Pages
+- **development**: Working branch for new features and updates
 
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
+### GitHub Pages Deployment
+This portfolio is deployed using GitHub Pages with the following workflow:
+1. Changes are committed to the development branch
+2. After testing, changes are merged to the main branch
+3. GitHub Pages automatically builds and deploys from the main branch
+4. The site is accessible at: https://DiyaRDarira.github.io
 
 ## Contact
 
-If you want to contact me you can reach me at [Twitter](https://www.x.com/codewithsadee_).
+- **Email**: diyadarira@gmail.com
+- **Location**: Mysore, Karnataka, India
+- **GitHub**: [kdrd004](https://github.com/kdrd004)
 
 ## License
 
-MIT
+This project is available for personal use.
